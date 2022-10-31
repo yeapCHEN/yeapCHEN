@@ -1,0 +1,12 @@
+//VS1003/1053 MP3模块与普中STM32开发板接线方式：
+//5V---5V
+//GND--GND
+//XRST--PG8
+//MISO--PA6
+//MOSI--PA7
+//SCLK--PA5
+//DREQ--PG7
+//XCS--PE6
+//XDCS--PG6
+
+//实验前请插入SD卡，在SD卡根目录下放入我们光盘内的SD卡文件夹内文件
